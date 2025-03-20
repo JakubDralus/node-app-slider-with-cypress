@@ -12,4 +12,4 @@ const swiper = new Swiper(".swiper", {
         enabled: true,
         onlyInViewport: false
     }
-}); 
+});
